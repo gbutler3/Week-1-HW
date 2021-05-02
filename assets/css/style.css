@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*** HEADER START ***/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,7 +40,9 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/*** HEADER END ***/
 
+/*** BODY START ***/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -114,6 +116,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*** BODY END***/
+
 /*** FOOTER START***/
 .footer {
     padding: 30px;
