@@ -40,9 +40,10 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+
 /*** HEADER END ***/
 
-/*** BODY START ***/
+/*** ALL SECTIONS UNDER HEADER START ***/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -71,7 +72,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/*** ALL SECTIONS UNDER HEADER END ***/
 
+/*** MAIN THREE SECTIONS OF WEB PAGE START ***/
 .search-engine-optimization,.online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -89,7 +92,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*** MAIN THREE SECTIONS OF WEB PAGE END ***/
 
+/*** LEFT COLUMN SECTION START***/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,7 +121,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/*** BODY END***/
+/*** LEFT COLUMN SECTION END***/
 
 /*** FOOTER START***/
 .footer {
