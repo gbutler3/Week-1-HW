@@ -1,29 +1,25 @@
 * {
     box-sizing: border-box;
-    padding: 0;
-    margin: 0;
+    padding: 0; margin: 0;
 }
-
+/*BACKGROUND*/
 body {
     background-color: #d9dcd6;
 }
-/*** HEADER START ***/
+/*HEADER START*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
 .header h1 .seo {
     color: #d9dcd6;
 }
-
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,28 +27,21 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
 .header nav ul {
     list-style-type: none;
 }
-
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
-/*** HEADER END ***/
-
-/*** ALL SECTIONS UNDER HEADER START ***/
+/*BODY MAIN */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
 p {
     font-size: 16px;
 }
-
 .hero {
     height: 800px;
     width: 100%;
@@ -61,20 +50,19 @@ p {
     background-size: cover;
     background-position: center;
 }
-
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+.float-right {
+    float: right;
+    margin-right: 25px;
+}
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/*** ALL SECTIONS UNDER HEADER END ***/
-
-/*** MAIN THREE SECTIONS OF WEB PAGE START ***/
 .search-engine-optimization,.online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -83,20 +71,16 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
-
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*** MAIN THREE SECTIONS OF WEB PAGE END ***/
-
-/*** LEFT COLUMN SECTION START***/
+/*BODY COLUMN*/
 .benefits {
-    margin-right: 20px;
+    margin-right: 20px; 
     padding: 20px;
     clear: both;
     float: right;
@@ -105,25 +89,20 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/*** LEFT COLUMN SECTION END***/
-
-/*** FOOTER START***/
+/*FOOTER*/
 .footer {
     padding: 30px;
     clear: both;
@@ -134,4 +113,3 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-/***FOOTER END***/
