@@ -1,19 +1,12 @@
 01 HTML, CSS and Git: Code Refactor
 
-User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+Description of Application:
+Horiseon marketing agency website which has a code base that follows the accessibility standards so that it is optimixed for search engines
 
-Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+Description of work done:
+Was able to meet and change the code so that it met the accessibility standards by making sure all the links worked
+Took out non semantic HTML elements and added semantic HTML elements
+Consolidated CSS code so that multiple elements were under the same heading with the same syling
+Added alt atributes to image elements
+Checked and fixed the heading attributes so that they were in sequential order in the HTML file
+Added a descriptive title to the title element
