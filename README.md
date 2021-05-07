@@ -14,3 +14,4 @@ Added a descriptive title to the title element
 [Click here for direct acess to the repo in GitHub](https://github.com/gbutler3/Code_Refactor_Mini_Project)
 
 [Click here for direct acess to website](https://gbutler3.github.io/Code_Refactor_Mini_Project/)
+
