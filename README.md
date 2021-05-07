@@ -16,4 +16,4 @@ Added a descriptive title to the title element
 [Click here for direct acess to website](https://gbutler3.github.io/Code_Refactor_Mini_Project/)
 
 ## ScreenShot
-![Preview of Web Page](gbutler3.github.io_Code_Refactor_Mini_Project_%20(1).png)
+![Preview of Web Page]()./assets/images/Preview-screenshot.jpg)
